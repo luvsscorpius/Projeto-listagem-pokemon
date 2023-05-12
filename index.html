@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="src/css/style.css">
+    <title>Listagem Pókemon</title>
+</head>
+
+<body>
+    <header>
+        <a href="#">
+            <img src="src/img/pokeball.png" alt="Pokebola" class="logo" />
+        </a>
+        <button id="botao-alterar-tema">
+            <img src="src/img/sun.png" alt="Imagem do sol" class="imagem-botao">
+        </button>
+    </header>
+
+    <main>
+        <ul class="listagem-pokemon">
+            <li class="cartao-pokemon">
+                <div class="informacoes">
+                    <span class="name">Bulbasaur</span>
+                    <span class="cod">0001</span>
+                </div>
+
+                <img src="src/img/bulbasaur.gif" alt="" class="gif">
+
+                <ul class="tipos">
+                    <li class="primeiro_tipo">Grama</li>
+                    <li class="segundo_tipo">Veneno</li>
+                </ul>
+
+                <p class="descricao">Há uma semente de planta em suas costas desde o dia que este Pókemon nasce. A
+                    semente cresce lentamente.</p>
+            </li>
+        </ul>
+    </main>
+
+    <script src="src/js/pokemons.js"></script>
+    <script src="src/js/script.js"></script>
+</body>
+
+</html>

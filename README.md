@@ -1,0 +1,1 @@
+Esse é um projeto de listagem de pokemon com HTML, CSS e JavaScript.
