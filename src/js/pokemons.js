@@ -1,5 +1,5 @@
 let pokemonJson = [
-    { id: 2, name: 'Ivy saur', cod: '#0002', img: 'src/img/ivysaur.gif', primeiro_tipo: 'Grama', segundo_tipo: 'Veneno', descricao: 'Quando o bulbo nas costas cresce, parece perder a capacidade de ficar de pé nas patas traseiras.' },
+    { id: 2, name: 'Ivysaur', cod: '#0002', img: 'src/img/ivysaur.gif', primeiro_tipo: 'Grama', segundo_tipo: 'Veneno', descricao: 'Quando o bulbo nas costas cresce, parece perder a capacidade de ficar de pé nas patas traseiras.' },
     { id: 3, name: 'Venusaur', cod: '#0003', img: 'src/img/venusaur.gif', primeiro_tipo: 'Grama', segundo_tipo: 'Veneno', descricao: 'Sua planta floresce quando está absorvendo energia solar. Ele permanece em movimento para buscar a luz do sol.' },
     { id: 4, name: 'Charmander', cod: '#0004', img: 'src/img/charmander.gif', primeiro_tipo: 'Fogo', segundo_tipo: '🔥', descricao: 'Ele tem preferencia por coisas quentes. Quando chove, diz-se que o vapor jorra da ponta de sua cauda.' },
     { id: 5, name: 'Charmeleon', cod: '#0005', img: 'src/img/charmeleon.gif', primeiro_tipo: 'Fogo', segundo_tipo: '🔥', descricao: 'Tem uma natureza bárbara. Em batalha, ele chicoteia sua cauda de fogo e corta com garras afiadas.' },
